@@ -1,0 +1,9 @@
+Hello, this is a file.
+
+This file is supposed to be committed into git.
+
+Ok.
+
+Thanks.
+
+Bye.
